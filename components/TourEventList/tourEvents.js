@@ -13,7 +13,7 @@ export default [
   },
   
   {
-    name: "Chandronath Hill Track",
+    name: "Chandronath Hill",
     location:"Sitakundo, Chattogram, Bangladesh",
     tagline: "Starting at ৳2000",
     image: "https://i.redd.it/wx26yfl410w51.jpg",
